@@ -1,0 +1,1 @@
+# Aplikacja React Native CoMiDolega
